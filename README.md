@@ -4,7 +4,7 @@
 [![PyPI - License](https://img.shields.io/pypi/l/pytest-pahrametahrize?color=magenta)](https://github.com/sco1/pytest-pahrametahrize/blob/main/LICENSE)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sco1/pytest-pahrametahrize/main.svg)](https://results.pre-commit.ci/latest/github/sco1/pytest-pahrametahrize/main)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/sco1/pytest-pahrametahrize)
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-VSCode.dev-blue)](https://vscode.dev/github.com/sco1/pytest-pahrametahrize)
 ![Works for me!](https://img.shields.io/badge/works-on%20my%20machine-brightgreen)
 
 Parametrize your tests with a Boston accent!
