@@ -13,6 +13,6 @@ TRUTHINESS_TEST_CASES = [
 ]
 
 
-@pytest.pahrametahrize(("in_val", "truth_out"), TRUTHINESS_TEST_CASES)
+@pytest.pahrametahrize(("in_val", "truth_out"), TRUTHINESS_TEST_CASES)  # type: ignore[attr-defined]
 def test_pahrametahrize(in_val: t.Union[None, bool, float], truth_out: bool) -> None:
     assert bool(in_val) == truth_out
