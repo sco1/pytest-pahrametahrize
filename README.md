@@ -1,6 +1,6 @@
 # pytest-pahrametahrize
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytest-pahrametahrize)](https://pypi.org/project/pytest-pahrametahrize/)
-[![PyPI](https://img.shields.io/pypi/v/pytest-pahrametahrize)](https://pypi.org/project/pytest-pahrametahrize/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pytest-pahrametahrize/1.0.0?logo=python&logoColor=FFD43B)](https://pypi.org/project/pytest-pahrametahrize/)
+[![PyPI](https://img.shields.io/pypi/v/pytest-pahrametahrize?logo=Python&logoColor=FFD43B)](https://pypi.org/project/pytest-pahrametahrize/)
 [![PyPI - License](https://img.shields.io/pypi/l/pytest-pahrametahrize?color=magenta)](https://github.com/sco1/pytest-pahrametahrize/blob/main/LICENSE)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sco1/pytest-pahrametahrize/main.svg)](https://results.pre-commit.ci/latest/github/sco1/pytest-pahrametahrize/main)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
@@ -25,7 +25,7 @@ def test_pahrametahrize(in_val, truth_out):
 ```
 
 
-becomes: 
+becomes:
 ```py
 import pytest
 
