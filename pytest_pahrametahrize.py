@@ -14,4 +14,4 @@ def pytest_configure() -> None:
 
     See: https://docs.pytest.org/en/latest/deprecations.html#pytest-namespace
     """
-    pytest.pahrametahrize = pahrametahrize()  # type: ignore[attr-defined]
+    pytest.pahrametahrize = pahrametahrize()
